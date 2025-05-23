@@ -29,11 +29,12 @@
 ## 🖥️ Giao diện minh họa
 
 ### 🔐 Giao diện mã hóa:
-![Giao diện mã hóa](link_anh_1)  
+![image](https://github.com/user-attachments/assets/c7f24057-40e6-4132-948c-5431e7d66290)
 *Giao diện tải file cần mã hóa, nhập khóa, và thực hiện mã hóa.*
 
 ### 🔓 Giao diện giải mã:
-![Giao diện giải mã](link_anh_2)  
+![image](https://github.com/user-attachments/assets/f661203a-9789-426e-8c0a-4fbe08431b34)
+
 *Giao diện tải file đã mã hóa, nhập khóa gốc và thực hiện giải mã.*
 
 ---
