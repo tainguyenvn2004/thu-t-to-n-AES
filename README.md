@@ -10,7 +10,7 @@
 
 - ✅ **Mã hóa file (Encrypt):**
   - Người dùng có thể tải lên một tập tin bất kỳ.
-  - Nhập một **khóa bảo mật gồm 16 ký tự** để mã hóa file đó bằng thuật toán AES-128.
+  - Nhập một **khóa bảo mật gồm vô số ký tự** để mã hóa file đó bằng thuật toán AES-128.
   - File sau khi mã hóa sẽ được tự động tải về máy người dùng.
 
 - ✅ **Giải mã file (Decrypt):**
