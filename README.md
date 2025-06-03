@@ -25,6 +25,13 @@
   - Với ngrok, bạn có thể khởi chạy server Flask trên Google Colab và truy cập qua một đường link công khai mà không cần cài đặt gì thêm trên máy tính cá nhân.
 
 ---
+## 🧑‍💻 3.Kỹ thuật – Công nghệ sử dụng
+- Ngôn ngữ: Python
+- Framework: Flask
+- Thuật toán mã hóa: AES-128 (khóa 16 ký tự) sử dụng thư viện pycryptodome
+- Giao diện: HTML, CSS
+- Triển khai: Google Colab kết hợp ngrok để tạo link truy cập web
+
 
 ## 🖥️ Giao diện minh họa
 
